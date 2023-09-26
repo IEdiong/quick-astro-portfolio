@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: 'https://iediong.vercel.app',
+  baseUrl: 'https://iediong.netlify.app',
   name: 'Ediongsenyene Joseph I.',
   jobDescription: 'Web Developer',
   about: `
