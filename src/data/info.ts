@@ -105,8 +105,15 @@ export const info = {
       liveUrl: 'https://aph-e-commerce.vercel.app/',
     },
     {
-      title: 'Insure Landing Page',
+      title: 'Robots Stores',
       isFeatured: true,
+      thumbnail: '/assets/images/robots-store.png',
+      githubUrl: 'https://github.com/IEdiong/robots-store',
+      liveUrl: 'https://joe-robot-shop.netlify.app/home',
+    },
+    {
+      title: 'Insure Landing Page',
+      isFeatured: false,
       thumbnail: '/assets/images/insure-landing-page.jpg',
       githubUrl: 'https://github.com/IEdiong/fem-insure-landing-page',
       liveUrl: 'https://iediong.github.io/fem-insure-landing-page/',
