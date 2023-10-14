@@ -84,6 +84,13 @@ export const info = {
 
   projects: [
     {
+      title: 'Rest-Countries',
+      isFeatured: true,
+      thumbnail: '/assets/images/rest-countries.jpg',
+      githubUrl: 'https://github.com/IEdiong/ng-rest-countries',
+      liveUrl: 'https://ei-countries.netlify.app/',
+    },
+    {
       title: 'Movie-Box',
       isFeatured: true,
       thumbnail: '/assets/images/movie-box.png',
@@ -106,7 +113,7 @@ export const info = {
     },
     {
       title: 'Todo App',
-      isFeatured: true,
+      isFeatured: false,
       thumbnail: '/assets/images/todo-app.jpg',
       githubUrl: 'https://github.com/IEdiong/fem/tree/main/todo-app',
       liveUrl: 'https://iediong-todo-app.netlify.app/',
