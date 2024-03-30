@@ -1,8 +1,8 @@
 /* ========== import font source ========== */
-@import "fonts.css";
+@import 'fonts.css';
 
 /* ========== import custom styles ========== */
-@import "custom-styles.css";
+@import 'custom-styles.css';
 
 @tailwind base;
 @tailwind components;
@@ -25,7 +25,7 @@
     @apply font-outfit;
   }
   h1 {
-    @apply text-6xl sm:text-8xl main-heading;
+    @apply text-6xl sm:text-8xl leading-normal main-heading;
   }
   h2 {
     @apply text-xl font-semibold;

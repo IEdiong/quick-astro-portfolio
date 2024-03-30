@@ -1,6 +1,6 @@
 export const info = {
   baseUrl: 'https://iediong.netlify.app',
-  name: 'Ediongsenyene Joseph I.',
+  name: 'Ediongsenyene Joseph',
   jobDescription: 'Web Developer',
   about: `
    I'm a Software Engineer with expertise in both Frontend and Backend development. My proficiency includes TypeScript, JavaScript, ReactJS, NextJS, Angular, C#, ASP.NET, and I have hands-on experience with technologies such as Bootstrap, TailwindCSS and Chakra-UI. Holding a Bachelor's degree in Electrical/Electronics Engineering, I am enthusiastic about seeking opportunities to collaborate with seasoned software engineers, driven by a relentless determination to learn and adapt quickly while effectively sharing knowledge with others.
@@ -91,11 +91,11 @@ export const info = {
       liveUrl: 'https://ei-countries.netlify.app/',
     },
     {
-      title: 'Movie-Box',
+      title: 'Tublian Customer Onboarding',
       isFeatured: true,
-      thumbnail: '/assets/images/movie-box.png',
-      githubUrl: 'https://github.com/IEdiong/movie-box',
-      liveUrl: 'https://iediong-movie-box.vercel.app/',
+      thumbnail: '/assets/images/tublian-cover.png',
+      githubUrl: 'https://github.com/IEdiong/tublian-frontend-challenge',
+      liveUrl: 'https://tublian-challenge.netlify.app/',
     },
     {
       title: 'Audiophile e-commerce',
@@ -105,8 +105,15 @@ export const info = {
       liveUrl: 'https://aph-e-commerce.vercel.app/',
     },
     {
-      title: 'Robots Stores',
+      title: 'Movie-Box',
       isFeatured: true,
+      thumbnail: '/assets/images/movie-box.png',
+      githubUrl: 'https://github.com/IEdiong/movie-box',
+      liveUrl: 'https://iediong-movie-box.vercel.app/',
+    },
+    {
+      title: 'Robots Stores',
+      isFeatured: false,
       thumbnail: '/assets/images/robots-store.png',
       githubUrl: 'https://github.com/IEdiong/robots-store',
       liveUrl: 'https://joe-robot-shop.netlify.app/home',
