@@ -3,15 +3,33 @@ export const info = {
   name: 'Ediongsenyene Joseph',
   jobDescription: 'Web Developer',
   about: `
-   I'm a Software Engineer with expertise in both Frontend and Backend development. My proficiency includes TypeScript, JavaScript, ReactJS, NextJS, Angular, C#, ASP.NET, and I have hands-on experience with technologies such as Bootstrap, TailwindCSS and Chakra-UI. Holding a Bachelor's degree in Electrical/Electronics Engineering, I am enthusiastic about seeking opportunities to collaborate with seasoned software engineers, driven by a relentless determination to learn and adapt quickly while effectively sharing knowledge with others.
+  I'm a seasoned Software Engineer adept in frontend development with Angular, React.js, and Next.js, complemented by backend proficiency in C#/ASP.NET and Node.js/Express, offering seamless user experiences and cohesive solutions bridging both domains.
   `,
 
   experience: [
     {
+      name: 'Corona Management Systems (Hybrid)',
+      location: 'Abuja, Nigeria',
+      startDate: 'Mar 2024',
+      endDate: 'Present',
+      description: ['- Developed frontend applications with Angular and RxJs'],
+    },
+    {
+      name: 'Freelance (Remote)',
+      location: 'Nigeria',
+      startDate: 'Jun 2023',
+      endDate: 'Present',
+      description: [
+        '- Developed a dashboard for a social media application to manage user activities on the platform using Angular',
+        '- Developed a web application for a business to convert sales',
+        '- Developed an internal tool for a client company as a contract staff using Angular',
+      ],
+    },
+    {
       name: 'HNG Internship (Remote)',
       location: 'Nigeria',
       startDate: 'Sep 2023',
-      endDate: 'Present',
+      endDate: 'Sep 2023',
       description: [
         '- Developing screens and UI components for the web application using NextJs, Chakra-UI and Tailwind.',
         '- Build APIs for web and mobile applications using C#/ASP.NET, EF Core and MySQL.',
@@ -21,14 +39,14 @@ export const info = {
       name: 'nHub Nigeria (NYSC)',
       location: 'Jos, Nigeria',
       startDate: 'Jul 2022',
-      endDate: 'May 2023',
+      endDate: 'Oct 2023',
       description: [
-        '- Teaching interns and students how to use Front-end technologies including HTML/CSS, Javascript, DOM Manipulation, Bootstrap, TailwindCSS, React, Chakra-UI, Typescript, State Management, NextJs etc.',
-        '- Building and leading the team in building some in-house products.',
-        '- Code Improvements and Refactoring .',
+        '- Learnt React.js and Next.js within the space of 2 months to complete 2 of the in-house applications',
+        '- Taught interns Frontend development and it’s tools',
+        '- Led a team of 6 at a point in building out an online marketplace for an incubating startup',
+        '- Rewrote some of the code to implement both client-side and server-side rendering thereby increasing the user experience of the applications',
       ],
     },
-
     {
       name: 'Vnicom Solutions Limited (Remote)',
       location: 'Magboro, Ogun, Nigeria',
@@ -36,8 +54,9 @@ export const info = {
       endDate: 'Aug 2023',
       description: [
         '- Learned how to build back-end applications with C#, ASP.NET Core, Entity Framework Core, MySQL and Bootstrap',
-        '- Built an online platform for purchasing books using the above mentioned technologies',
+        '- Built an online platform for purchasing books using the above mentioned technologies and Azure App Service',
         '- Built a student management system to keep track of all interns across all programs',
+        '- Managed MySQL and Azure MySQL Flexible Database',
       ],
     },
     {
@@ -46,8 +65,9 @@ export const info = {
       startDate: 'Apr 2021',
       endDate: 'Feb 2022',
       description: [
-        '- Learnt to use Typescript with Angular (a JavaScript framework) to build Frontend applications',
-        '- Learnt about RxJs and consuming APIs in Angular',
+        '- Learnt Typescript and Angular to build Frontend applications',
+        '- Built a music album application with Angular',
+        '- Worked with a team of 5 to build a social media application that interacts with an API',
       ],
     },
 
