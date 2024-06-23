@@ -8,11 +8,13 @@ export const info = {
 
   experience: [
     {
-      name: 'Corona Management Systems (Hybrid)',
+      name: 'Corona Management Systems (Remote)',
       location: 'Abuja, Nigeria',
       startDate: 'Mar 2024',
       endDate: 'Present',
-      description: ['- Developed frontend applications with Angular and RxJs'],
+      description: [
+        '- Developed frontend applications with Next.js and Angular.',
+      ],
     },
     {
       name: 'Freelance (Remote)',
@@ -20,9 +22,9 @@ export const info = {
       startDate: 'Jun 2023',
       endDate: 'Present',
       description: [
-        '- Developed a dashboard for a social media application to manage user activities on the platform using Angular',
-        '- Developed a web application for a business to convert sales',
-        '- Developed an internal tool for a client company as a contract staff using Angular',
+        '- Developed a risk management application, sharken.io, using Angular, ngRx, Angular Material, and rxJS, enhancing risk assessment and mitigation processes for businesses, resulting in a 30% increase in operational efficiency for clients.',
+        '- Implemented a dashboard UI for Cheelzz, a social media application, using Angular and TailwindCSS, streamlining the management of user activities on the platform, and enhancing user engagement by 25% through improved interface design and functionality.',
+        '- Developed a web application for Vandrezzer FC using Next.js and Chakra-UI, creating an interface identical to Manchester City’s official site, enhancing fan engagement and digital presence by providing a professional and user-friendly platform.',
       ],
     },
     {
@@ -36,7 +38,7 @@ export const info = {
       ],
     },
     {
-      name: 'nHub Nigeria (NYSC)',
+      name: 'nHub Nigeria',
       location: 'Jos, Nigeria',
       startDate: 'Jul 2022',
       endDate: 'Oct 2023',
@@ -44,7 +46,6 @@ export const info = {
         '- Learnt React.js and Next.js within the space of 2 months to complete 2 of the in-house applications',
         '- Taught interns Frontend development and it’s tools',
         '- Led a team of 6 at a point in building out an online marketplace for an incubating startup',
-        '- Rewrote some of the code to implement both client-side and server-side rendering thereby increasing the user experience of the applications',
       ],
     },
     {
@@ -66,8 +67,7 @@ export const info = {
       endDate: 'Feb 2022',
       description: [
         '- Learnt Typescript and Angular to build Frontend applications',
-        '- Built a music album application with Angular',
-        '- Worked with a team of 5 to build a social media application that interacts with an API',
+        '- Collaborated with a cross-functional team of five to build a social media application, enhancing user interaction through seamless API integration.',
       ],
     },
 
@@ -98,7 +98,7 @@ export const info = {
   socialMedia: {
     twitter: 'https://twitter.com/IEdiong',
     github: 'https://github.com/IEdiong',
-    email: 'mailto:ediongi6@hotmail.com',
+    email: 'mailto:ediongi6@gmail.com',
     linkedin: 'https://www.linkedin.com/in/iediong/',
   },
 
