@@ -132,6 +132,20 @@ export const info = {
       liveUrl: 'https://iediong-movie-box.vercel.app/',
     },
     {
+      title: 'Dashboard with Charts',
+      isFeatured: true,
+      thumbnail: '/assets/images/geegpay-challenge.png',
+      githubUrl: 'https://github.com/IEdiong/geepay-challenge',
+      liveUrl: 'https://geepay-challenge.vercel.app/',
+    },
+    {
+      title: 'Shopify Store',
+      isFeatured: true,
+      thumbnail: '/assets/images/shopify-challenge.png',
+      githubUrl: 'https://github.com/IEdiong/shopify-challenge',
+      liveUrl: 'https://shopify-challenge-ie.netlify.app/',
+    },
+    {
       title: 'Robots Stores',
       isFeatured: false,
       thumbnail: '/assets/images/robots-store.png',
